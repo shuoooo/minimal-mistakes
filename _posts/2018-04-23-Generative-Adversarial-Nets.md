@@ -1,5 +1,6 @@
 ---
 title: "Getting Started with GAN"
+mathjax: true
 ---
 
 Some of the great materials regarding Generative Adversarial Networks are provided below:

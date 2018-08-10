@@ -1,5 +1,6 @@
 ---
 title: "First Step Towards Deep Learning"
+mathjax: true
 ---
 
 I have just finished the [Deep Learning Specification](deeplearning.ai) on Coursera, taught by Andrew Ng. I found this course truly remarkable. Andrew and his team did put a lot of thoughts into this course, and provide an easily accessible way for us to learn both theories and practices of deep learning.
